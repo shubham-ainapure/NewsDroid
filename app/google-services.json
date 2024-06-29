@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799224431121",
+    "project_id": "newsdroid-5eb4c",
+    "storage_bucket": "newsdroid-5eb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799224431121:android:1eb9a261d1c75ba147a7b0",
+        "android_client_info": {
+          "package_name": "com.example.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-CEqiJlJ8QfUci3I7a_vH4kKAWDk4pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
