@@ -24,7 +24,7 @@ It provides new set of articles every hour<br/>
 
 ![Navigation drawer](https://github.com/shubham-ainapure/Data-Monitor/assets/56270447/c4af27bd-b55e-42d4-888c-ee5e1f02250b)<br/>
 
-5)Showing a saved article to read letter in saved category<br/>
+5)Showing a saved article to read later in saved category<br/>
 
 ![saved article](https://github.com/shubham-ainapure/Data-Monitor/assets/56270447/65e93bc0-739a-4803-a2d6-8057d1103c2e)
 
